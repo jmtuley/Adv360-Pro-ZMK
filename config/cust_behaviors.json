@@ -1,0 +1,10 @@
+[
+	{
+		"code": "&mo_tog",
+		"name": "&mo_tog",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
+]
